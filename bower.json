@@ -1,5 +1,5 @@
 {
-  "name": "purescript-argonaut-generic-codecs-serde",
+  "name": "purescript-serde-experiment",
   "ignore": [
     "**/.*",
     "node_modules",
